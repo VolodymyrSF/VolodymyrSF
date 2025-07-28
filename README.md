@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Volodymyr
 
-I’m a full-stack developer with a strong backend focus and DevOps experience.  
+I’m a full-stack developer with a strong backend focus and SysAdmin/DevOps experience.  
 I build scalable, production-ready applications using **NestJS**, **Node.js**, **React**, and tools like **Docker**, **Redis**, and **PostgreSQL**.  
 I love building bots, APIs, admin panels, and anything that requires brains, architecture, and battle-tested code.
 
