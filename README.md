@@ -37,15 +37,18 @@ Git, Postman, Swagger, Bash, ESLint, Prettier
 ---
 
 ### 🔸 Backend
-- **[autoria_clone](https://github.com/VolodymyrSF/autoria_clone)** 
+- **[autoria_clone](https://github.com/VolodymyrSF/autoria_clone)**
+  
   A fully functional backend clone of the car listing platform **Autoria** built with **NestJS** and **PostgreSQL**.  
   Features include JWT auth, user roles, car listing CRUD, image upload, filtering, favorites, email confirmation, and token blacklisting.
 
-- **[Telegram Monitor Bot](https://github.com/VolodymyrSF/telegram-monitor-bot)** 
+- **[Telegram Monitor Bot](https://github.com/VolodymyrSF/telegram-monitor-bot)**
+  
   A powerful CLI-based Telegram bot for **monitoring chats**, detecting **keywords**, and sending **automated email alerts**.  
   Built with **Node.js**, **Telegraf**, **TDLib**, **Nodemailer**, and **Docker**. Includes daily digest emails, CLI tools, reconnection watchdog, and full logging.
 
-- **[Final Project Admin Backend](https://github.com/VolodymyrSF/finish-project)**   
+- **[Final Project Admin Backend](https://github.com/VolodymyrSF/finish-project)**
+   
   Admin panel backend with **NestJS**, **PostgreSQL**, **Redis**, and **Excel export** support.  
   Features include user/manager roles, JWT authentication, order management, token blacklisting, and Swagger documentation.
 
